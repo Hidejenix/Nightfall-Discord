@@ -107,18 +107,6 @@ Application ID находится на странице вашего прило�
 
 ---
 
-## 🤝 Вклад в проект
-
-Будем рады вашим идеям и улучшениям!
-
-1. Сделайте форк репозитория
-2. Создайте ветку с вашей функцией (`git checkout -b feature/AmazingFeature`)
-3. Закоммитьте изменения (`git commit -m 'Add some AmazingFeature'`)
-4. Отправьте ветку (`git push origin feature/AmazingFeature`)
-5. Откройте Pull Request
-
----
-
 ## 📄 Лицензия
 
 Проект распространяется под лицензией **MIT**. Подробнее см. в файле [LICENSE](LICENSE).
