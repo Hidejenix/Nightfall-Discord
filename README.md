@@ -5,3 +5,5 @@
 Установить Python: https://www.python.org/downloads/
 
 Создать приложение на https://discord.com/developers/ и ввести ID приложения в программу.
+
+Скачать последнюю актуальную версию программы можно тут: https://github.com/WPSQUAD/Nightfall-Discord/releases
