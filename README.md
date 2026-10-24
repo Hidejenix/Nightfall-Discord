@@ -7,3 +7,14 @@
 Создать приложение на https://discord.com/developers/ и ввести ID приложения в программу.
 
 Скачать последнюю актуальную версию программы можно тут: https://github.com/WPSQUAD/Nightfall-Discord/releases
+
+
+
+🔗 Ссылки
+🌐 Репозиторий: github.com/WPSQUAD/Nightfall-Discord
+
+⬇️ Релизы: github.com/WPSQUAD/Nightfall-Discord/releases
+
+🐍 Python: python.org/downloads
+
+🎮 Discord Developer Portal: discord.com/developers
