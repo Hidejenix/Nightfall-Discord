@@ -19,7 +19,7 @@
 
 ---
 ## 🖼️ Скриншоты
-<img src="https://9pic.ru/ShkuN/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2026-10-24+234903.png" alt="Image">
+[<img src="https://9pic.ru/ShkuN/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2026-10-24+234903.png" alt="Image">](https://9pic.ru/NdoMs/235047.png)
 ---
 
 ## ✨ Возможности
