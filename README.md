@@ -113,15 +113,6 @@ Application ID находится на странице вашего прило�
 
 ---
 
-## 🔗 Ссылки
-
-- 🌐 **Репозиторий:** [github.com/WPSQUAD/Nightfall-Discord](https://github.com/WPSQUAD/Nightfall-Discord)
-- ⬇️ **Релизы:** [github.com/WPSQUAD/Nightfall-Discord/releases](https://github.com/WPSQUAD/Nightfall-Discord/releases)
-- 🐍 **Python:** [python.org/downloads](https://www.python.org/downloads/)
-- 🎮 **Discord Developer Portal:** [discord.com/developers](https://discord.com/developers/)
-
----
-
 <div align="center">
 
 Сделано с ❤️ командой **WPSQUAD**
