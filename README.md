@@ -18,3 +18,10 @@
 🐍 Python: python.org/downloads
 
 🎮 Discord Developer Portal: discord.com/developers
+
+<div align="center">
+Сделано с ❤️ командой WPSQUAD
+
+⭐ Если проект оказался полезным — поставьте звезду!
+
+</div>
